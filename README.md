@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 - 📖 Estudo Ciências da Computação na UNESP - Universidade Estadual Paulista
-- 🖱️ Atualmente faço uma iniciação científica na área de desenvolvimento de jogos utilizando Unity e C#. 
+- 🖱️ Fui bolsista CNPq em um projeto de desenvolvimento de um jogo 3D com Unity e C#, trabalhei principalmente na parte de criação de mapas.
 - 💡 Tenho interesse em desenvolvimento de software e machine learning
 
 
